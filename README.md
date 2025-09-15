@@ -4,7 +4,7 @@
 
 **Попробовать интерактивную демо-версию модели можно по ссылке:**
 
-### [➡️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/koziymaxim/churn-prediction-demo)
+### [➡️ Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/koziymaxim/chicken-segmentation)
 
 ---
 
